@@ -1,0 +1,22 @@
+{
+  "name": "in_my_campus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/open-source-learners/In_my_campus.git"
+  },
+  "author": "opls",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/open-source-learners/In_my_campus/issues"
+  },
+  "homepage": "https://github.com/open-source-learners/In_my_campus#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
